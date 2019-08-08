@@ -1,4 +1,5 @@
 # Belly Button Biodiversity
+The Flask App is hosted at heroku.com at this [link](https://bellybuttonbacterias.herokuapp.com/).
 
 ![Bacteria by filterforge.com](Images/bacteria_by_filterforgedotcom.jpg)
 
