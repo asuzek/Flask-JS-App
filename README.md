@@ -3,7 +3,7 @@ The Flask App is hosted at heroku.com at this [link](https://bellybuttonbacteria
 
 ![Bacteria by filterforge.com](Images/bacteria_by_filterforgedotcom.jpg)
 
-In this assignment, you will build an interactive dashboard to explore the [Belly Button Biodiversity DataSet](http://robdunnlab.com/projects/belly-button-biodiversity/).
+In this project, we will build an interactive dashboard to explore the [Belly Button Biodiversity DataSet](http://robdunnlab.com/projects/belly-button-biodiversity/).
 
 ## Step 1 - Plotly.js
 
@@ -50,7 +50,7 @@ Deploy your [Flask app to Heroku](https://bellybuttonbacterias.herokuapp.com/).
 
 * The provided sqlite file for the database is used.
 
-## Advanced Challenge Assignment (Optional)
+## Advanced Challenge Assignment
 
 The following task is completely optional and is very advanced.
 
